@@ -15,7 +15,7 @@ An interactive, Power BI <img src="assets/power-bi-icon.svg" height="15" style="
 - Standardized text fields and validated data types
 - Prepared clean dataset ready for modeling
   
-  ![Dashboard Preview](Dashboard%20Snippets/Dashboard%201.png)
+  <img src="assets/Step%201.png" height="350" />
  
 
 ### 🔹 Student 2: Saloni Khillare (T140200803) 
@@ -24,7 +24,7 @@ An interactive, Power BI <img src="assets/power-bi-icon.svg" height="15" style="
 - Created 10+ DAX measures (Total Students, Avg Marks, Pass %, Subject-wise averages)
 - Validated measure accuracy and cross-filter behavior
   
-  ![Dashboard Preview](Dashboard%20Snippets/Dashboard%202.png)
+  <img src="assets/Step%202.png" height="350" />
 
 ### 🔹 Student 3: Dhananjay Patil (T140200802) 
   Dashboard Design & Report Publishing
@@ -33,7 +33,7 @@ An interactive, Power BI <img src="assets/power-bi-icon.svg" height="15" style="
 - Applied modern Fluent UI theme
 - Published to Power BI Service and created GitHub repository
   
-  ![Dashboard Preview](Dashboard%20Snippets/Dashboard%203.png)
+  <img src="assets/Step%203.png" height="350" />
 
 ---
 
