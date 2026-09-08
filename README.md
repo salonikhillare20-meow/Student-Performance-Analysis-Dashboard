@@ -15,7 +15,7 @@ An interactive, Power BI <img src="assets/power-bi-icon.svg" height="15" style="
 - Standardized text fields and validated data types
 - Prepared clean dataset ready for modeling
   
-  <img src="assets/Step%201.png" height="350" />
+  ![Dashboard Preview](Dashboard%20Snippets/Dashboard%201.png)
  
 
 ### 🔹 Student 2: Saloni Khillare (T140200803) 
